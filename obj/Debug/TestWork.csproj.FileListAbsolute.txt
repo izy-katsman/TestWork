@@ -1,0 +1,6 @@
+C:\Users\Света\source\repos\TestWork\TestWork\bin\Debug\TestWork.dll
+C:\Users\Света\source\repos\TestWork\TestWork\bin\Debug\TestWork.pdb
+C:\Users\Света\source\repos\TestWork\TestWork\obj\Debug\TestWork.csprojAssemblyReference.cache
+C:\Users\Света\source\repos\TestWork\TestWork\obj\Debug\TestWork.csproj.CoreCompileInputs.cache
+C:\Users\Света\source\repos\TestWork\TestWork\obj\Debug\TestWork.dll
+C:\Users\Света\source\repos\TestWork\TestWork\obj\Debug\TestWork.pdb
