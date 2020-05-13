@@ -33,6 +33,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -42,12 +43,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Plugins\BasePlugin.cs" />
-    <Compile Include="Plugins\DivPlugin.cs" />
-    <Compile Include="Plugins\MulPlugin.cs" />
-    <Compile Include="Plugins\SumPlugin.cs" />
+    <Compile Include="Plugins\MyPlugins\DivPlugin.cs" />
+    <Compile Include="Plugins\MyPlugins\MulPlugin.cs" />
+    <Compile Include="Plugins\MyPlugins\SumPlugin.cs" />
     <Compile Include="IPlugin.cs" />
     <Compile Include="Plugins\Plugins.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
